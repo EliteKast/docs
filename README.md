@@ -1,2 +1,1 @@
-# docs
-Documentation
+# [EliteKast Documentation](http://docs.elitekast.com)
